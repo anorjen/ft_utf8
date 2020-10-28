@@ -6,7 +6,7 @@
 /*   By: anorjen <anorjen@student.21-school.ru>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/10/22 11:34:30 by anorjen           #+#    #+#             */
-/*   Updated: 2020/10/28 17:27:36 by anorjen          ###   ########.fr       */
+/*   Updated: 2020/10/28 18:29:54 by anorjen          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,7 +24,7 @@
 # include <stdint.h>
 # include "libft.h"
 
-# define UREAD_BUFF_SIZE 4
+# define UREAD_BUFF_SIZE 128
 
 typedef uint32_t	t_usym;
 
