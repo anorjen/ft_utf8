@@ -6,14 +6,13 @@
 /*   By: anorjen <anorjen@student.21-school.ru>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/10/22 11:34:30 by anorjen           #+#    #+#             */
-/*   Updated: 2020/10/28 18:29:54 by anorjen          ###   ########.fr       */
+/*   Updated: 2020/10/28 18:32:44 by anorjen          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 /*
 **	unicode utf8 library
 **	little-endian maintain
-**	big-endian not guaranteed
 */
 
 #ifndef FT_UTF8_H
